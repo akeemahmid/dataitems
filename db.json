@@ -1,0 +1,180 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Jollof Rice and Platain",
+      "category": "Rice",
+      "image": "https://files.selar.co/product-images/2022/products/unickchops/jollof-rice-with-plantain-selar.co-6209725ec671a.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Okro Soup",
+      "category": "Soup",
+      "image": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/698550iE5F5C580E30AA08A/image-size/large?v=v2&px=999"
+    },
+    {
+      "id": 3,
+      "name": "Egusi and semo",
+      "category": "Swallow",
+      "image": "https://www.fmnfoods.com/wp-content/uploads/2021/03/EGUSI-WITH-BALL-8-1-768x512.jpg"
+    },
+
+    {
+      "id": 4,
+      "name": "Akara",
+      "category": "Snacks",
+      "image": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/698546iDA914B37A69C6812/image-dimensions/1000?v=v2&px=-1"
+    },
+    {
+      "id": 5,
+      "name": "Bread and Tea",
+      "category": "Breakfast",
+      "image": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/698548i02A5F25974E3D987/image-size/large?v=v2&px=999"
+    },
+    {
+      "id": 6,
+      "name": "Stew",
+      "category": "Soup",
+      "image": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/698562i60426F73C3AD2DC0/image-size/large?v=v2&px=999"
+    },
+    {
+      "id": 7,
+      "name": "Fresh Fish Pepper Soup",
+      "category": "Soup",
+      "image": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/698547iD24DF5F8E037E917/image-size/large?v=v2&px=999"
+    },
+    {
+      "id": 8,
+      "name": "Plantain and Beans",
+      "category": "Refreshments",
+      "image": "https://www.zikoko.com/wp-content/uploads/zikoko/2022/06/beans-and-plantain.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Ofada Rice",
+      "category": "Rice",
+      "image": "https://b2252062.smushcdn.com/2252062/wp-content/uploads/2016/12/ofada-stew-recipe-image_10.jpg?lossy=0&strip=0&webp=1"
+    },
+    {
+      "id": 10,
+      "name": "Cat Fish Pepper Soup",
+      "category": "Soup",
+      "image": "https://www.localguidesconnect.com/t5/image/serverpage/image-id/698561i4D99E70820E5549E/image-dimensions/1000?v=v2&px=-1"
+    },
+
+    {
+      "id": 11,
+      "name": "Efo Riro",
+      "category": "Soup",
+      "image": "https://sisijemimah.com/wp-content/uploads/2015/06/20190728_121338-768x765.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Afang Soup",
+      "category": "Soup",
+      "image": "https://sisijemimah.com/wp-content/uploads/2016/08/Afang-soup-16-768x676.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Moi Moi",
+      "category": "Refreshment",
+      "image": "https://lyndishes.com/wp-content/uploads/2020/10/116619452_574057686620204_65629194535250273_n.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Igbo Soup",
+      "category": "Soup",
+      "image": "https://lyndishes.com/wp-content/uploads/2020/09/WhatsApp-Image-2020-10-05-at-5.44.57-PM.jpeg"
+    },
+    {
+      "id": 15,
+      "name": "Spagetti",
+      "category": "Breaakfast",
+      "image": "https://files.selar.co/product-images/2022/products/unickchops/meat-deli-jollof-spaghett-selar.co-6209786007466.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Eba and Egusi",
+      "category": "Swallow",
+      "image": "https://www.bellanaija.com/wp-content/uploads/2020/08/maxresdefault-1-768x432.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Jollof Rice and Chicken",
+      "category": "Rice",
+      "image": "https://files.selar.co/product-images/2022/products/unickchops/jollof-rice-with-plantain-selar.co-6209725ec671a.jpg"
+    },
+    {
+      "id": 18,
+      "name": "White Rice and Stew",
+      "category": "Rice",
+      "image": "https://files.selar.co/product-images/2022/products/unickchops/option-10-rice-and-beans--selar.co-62097a823f8b6.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Semo and Egusi",
+      "category": "Swallow",
+      "image": "https://niammy.com/img/public/1094/201703/1489227695_60444.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Plantain and Egg",
+      "category": "Breakfast",
+      "image": "https://lyndishes.com/wp-content/uploads/2020/09/WhatsApp-Image-2021-04-21-at-20.08.20.jpeg"
+    },
+    {
+      "id": 21,
+      "name": "Plantain and Egg",
+      "category": "Refreshment",
+      "image": "https://lyndishes.com/wp-content/uploads/2020/10/242237259_596492634720734_51992125057458178_n.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Amala, Gbegiri and Ewedu",
+      "category": "Swallow",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Amala_and_ewedu_with_stew_and_cow_head_and_leg.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Fried Rice",
+      "category": "Rice",
+      "image": "https://i.pinimg.com/736x/3f/a1/eb/3fa1eb3b3eac0f37f3a6c62ef132b6c1.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Garri",
+      "category": "Refreshment",
+      "image": "https://www.mydiasporakitchen.com/wp-content/uploads/2018/09/img_8721.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Pap and Akara",
+      "category": "Breaakfast",
+      "image": "https://lyndishes.com/wp-content/uploads/2020/10/91756897_556243685007213_3496519451963077263_n.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Asun",
+      "category": "Snacks",
+      "image": "https://bustopbistro.ng/wp-content/uploads/2020/04/22-Asun.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Fish Roll",
+      "category": "Snacks",
+      "image": "https://www.relishagrofood.com/fast_food/chinese_spring_roll.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Ponded Yam and Edinkiakong Soup",
+      "category": "Swallow",
+      "image": "https://guardian.ng/wp-content/uploads/2022/08/Afang-soup-recipe-534x600.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Abula",
+      "category": "Swallow",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Amala_and_Gbegiri_with_Ewedu_soup.jpg"
+    }
+  ]
+}
